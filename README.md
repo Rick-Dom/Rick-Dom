@@ -12,12 +12,3 @@
 </div>
   
   ##
- 
-<div> 
-  <a href="https://instagram.com/_rickiiinho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/𝐭𝐚𝐧𝐣𝐢𝐫𝐨#0089" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-   ![Snake animation](https://github.com/Rick-Dom/Rick-Dom/blob/output/github-contribution-grid-snake.svg)
-
- 
-</div>
